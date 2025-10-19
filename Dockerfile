@@ -18,3 +18,6 @@ EXPOSE 8000
 
 # Command to run the app
 CMD ["npm", "start"]
+
+
+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
